@@ -7,7 +7,7 @@
    NOMOR WHATSAPP KAMU (Ubah nomor di bawah ini!)
    Format: '6281234567890' (gunakan kode negara 62, tanpa + atau -)
    ============================================================ */
-const MY_WHATSAPP_NUMBER = ''; // <- UBAH DI SINI (Contoh: '6281234567890')
+const MY_WHATSAPP_NUMBER = '62895342212527'; // <- UBAH DI SINI (Contoh: '6281234567890')
 
 const $ = (id) => document.getElementById(id);
 
